@@ -1,0 +1,6 @@
+#:C:\MyProgrammsTest\DotNetCoreOPC\Opc.Ua.Client\Opc.Ua.Client.xproj
+C:\MyProgrammsTest\DotNetCoreOPC\Opc.Ua.Client\Opc.Ua.Client.xproj|C:\MyProgrammsTest\DotNetCoreOPC\Opc.Ua.Core\Opc.Ua.Core.xproj
+#:C:\MyProgrammsTest\DotNetCoreOPC\DotNetCoreOPC\DotNetCoreOPC.xproj
+C:\MyProgrammsTest\DotNetCoreOPC\DotNetCoreOPC\DotNetCoreOPC.xproj|C:\MyProgrammsTest\DotNetCoreOPC\Opc.Ua.Client\Opc.Ua.Client.xproj
+C:\MyProgrammsTest\DotNetCoreOPC\DotNetCoreOPC\DotNetCoreOPC.xproj|C:\MyProgrammsTest\DotNetCoreOPC\Opc.Ua.Core\Opc.Ua.Core.xproj
+C:\MyProgrammsTest\DotNetCoreOPC\Opc.Ua.Client\Opc.Ua.Client.xproj|C:\MyProgrammsTest\DotNetCoreOPC\Opc.Ua.Core\Opc.Ua.Core.xproj
