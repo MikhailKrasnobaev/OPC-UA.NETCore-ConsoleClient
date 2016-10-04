@@ -26,7 +26,7 @@ namespace NetCoreConsoleClient
             string endpointURL;
             if (args.Length == 0)
             {
-                // use OPC UA .Net Sample server 
+                // Your OPC UA server 
                 endpointURL = "opc.tcp://mckmes001:49320";
             }
             else
